@@ -52,4 +52,4 @@ Please check first and then send your codes with discription.
 
 ### Show some ❤ by starring the repository.
 
-README Upldated by- [ShivanshVasu](https://www.linkedin.com/in/theshivanshvasu/)
+README Updated by- [ShivanshVasu](https://www.linkedin.com/in/theshivanshvasu/)
